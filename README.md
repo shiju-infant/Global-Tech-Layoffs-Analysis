@@ -1,4 +1,5 @@
 # 📊 Global Tech Layoffs Analysis
+![Top Companies](top_companies.png)
 
 ## 📌 Project Overview
 
